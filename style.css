@@ -1,0 +1,29 @@
+a {
+  color: blue;
+  text-decoration: none;
+  font-size: 26px;
+}
+
+div {
+  margin:auto;
+  border-width: medium;
+  border-style: double;
+  width: 250px;
+}
+
+#name_id {
+  color: red;
+  font-size: 20px;
+}
+
+#duration_id {
+  color: blue;
+}
+
+.values_class {
+  color: orange;
+}
+
+li:nth-child(1) {
+  color: purple;
+}
